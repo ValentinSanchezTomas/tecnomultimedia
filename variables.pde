@@ -1,0 +1,14 @@
+int moverse = 1000;
+float velX,velY;
+float posX,posY;
+float opacity;
+String texto= "Productor y diseñador del juego";
+String texto1= "LESLIE BENZIES";
+String texto2= "Director técnico:"; 
+PImage lossantos ;
+PImage gta5logo;
+PImage michael;
+PFont  arial;
+PFont  fuentegta; 
+PFont  fuentegta2;
+PFont  fuentegta3;
