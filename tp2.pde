@@ -1,3 +1,5 @@
+//Alumno: Sanchez Valentin N°Legajo 84835/7
+
 int cant = 5;
 int tam;
 int random = color(random(255), random(200), random(100));
