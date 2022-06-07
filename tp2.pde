@@ -1,4 +1,5 @@
-//Alumno: Sanchez Valentin N°Legajo 84835/7
+//Alumno: Sanchez Valentin N°Legajo 84835/7. Comision 1
+//Profesor: José Luis Bugiolachi
 
 int cant = 5;
 int tam;
