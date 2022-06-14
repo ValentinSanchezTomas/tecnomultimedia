@@ -1,4 +1,5 @@
 //Alumno: Sanchez Valentin N°Legajo 84835/7. Comision 1
+//Video: https://www.youtube.com/watch?v=DlpQE5q0G1s&ab_channel=ValentinSanchez
 //Profesor: José Luis Bugiolachi
 
 int cant = 5;
